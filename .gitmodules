@@ -1,0 +1,9 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/MakerPi-3D/stm32_library
+[submodule "lvgl"]
+	path = lvgl
+	url = https://github.com/lvgl/lvgl
+[submodule "Marlin"]
+	path = Marlin
+	url = https://github.com/MarlinFirmware/Marlin

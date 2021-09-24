@@ -1,0 +1,10 @@
+/MDK-ARM/STM32F429
+/MDK-ARM/DebugConfig
+/MDK-ARM/RTE
+/MDK-ARM/stm32f429ii-bga
+/MDK-ARM/startup_stm32f429xx.lst
+/MDK-ARM/stm32f429ii-bga.uvguix.edwar
+/MDK-ARM/JLinkLog.txt
+/MDK-ARM/EventRecorderStub.scvd
+/MDK-ARM/JLinkSettings.ini
+*.edwar
